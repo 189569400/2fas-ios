@@ -215,6 +215,8 @@ internal enum T {
   internal static let securityErrorNoMatch = T.tr("Localizable", "security_error_no_match", fallback: "PIN does not match! Please try again.")
   /// Developer Options
   internal static let settingsDeveloperOptions = T.tr("Localizable", "settings_developer_options", fallback: "Developer Options")
+  /// s
+  internal static let timeUnitSecondsShort = T.tr("Localizable", "time_unit_seconds_short", fallback: "s")
   /// Please update to the newest 2FAS version to get all features and maintain a high-security level.
   internal static let updateAppMsg = T.tr("Localizable", "update_app_msg", fallback: "Please update to the newest 2FAS version to get all features and maintain a high-security level.")
   /// Update app
